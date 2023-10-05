@@ -1,3 +1,10 @@
 [submodule "/home/atsuyaw/.mutt"]
 	path = .mutt
 	url = git@gist.github.com:86db255fa5889df2acc39419cbf79a6e.git
+[submodule ".config/mako"]
+	path = .config/mako
+	url = git@gist.github.com:bc3306df684db4ac9fa6a494aa1599ae.git
+[submodule "/home/atsuyaw/.config/waybar"]
+	path = .config/waybar
+	url = git@github.com:atsuyaw/doom-sway.git
+	branch = doom-one
