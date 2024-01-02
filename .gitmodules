@@ -8,3 +8,12 @@
 	path = .config/waybar
 	url = git@github.com:atsuyaw/doom-sway.git
 	branch = doom-one
+[submodule "/home/atsuyaw/.config/sway"]
+	path = .config/sway
+	url = git@gist.github.com:6777379d53dddbc96dc9b7f2a484918f.git
+[submodule "/home/atsuyaw/.config/tmux"]
+	path = .config/tmux
+	url = git@gist.github.com:13e6d6bc73227191d588374e772ccc22.git
+[submodule "/home/atsuyaw/.config/swaylock"]
+	path = .config/swaylock
+	url = git@gist.github.com:eb23b48a24e1c3a8fbc4a812fdd25d86.git
