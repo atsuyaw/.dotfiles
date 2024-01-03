@@ -20,3 +20,12 @@
 [submodule "/home/atsuyaw/.config/fcitx5"]
 	path = .config/fcitx5
 	url = git@github.com:atsuyaw/config4fcitx5.git
+[submodule "/home/atsuyaw/.config/foot"]
+	path = .config/foot
+	url = git@gist.github.com:c9cb954d8a67699aedec871578f0285b.git
+[submodule "/home/atsuyaw/.config/nvim"]
+	path = .config/nvim
+	url = git@github.com:atsuyaw/.config4nvim.git
+[submodule "/home/atsuyaw/.config/wofi"]
+	path = .config/wofi
+	url = git@gist.github.com:f37ea2485115ecbc4eb2581b5689d832.git
