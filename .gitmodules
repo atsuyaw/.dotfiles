@@ -17,3 +17,6 @@
 [submodule "/home/atsuyaw/.config/swaylock"]
 	path = .config/swaylock
 	url = git@gist.github.com:eb23b48a24e1c3a8fbc4a812fdd25d86.git
+[submodule "/home/atsuyaw/.config/fcitx5"]
+	path = .config/fcitx5
+	url = git@github.com:atsuyaw/config4fcitx5.git
